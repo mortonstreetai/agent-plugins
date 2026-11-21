@@ -1,0 +1,11 @@
+{
+  "name": "mortonstreet-plugins",
+  "interface": { "displayName": "Morton Street" },
+  "plugins": [
+    {
+      "name": "mortonstreet",
+      "source": { "source": "local", "path": "./mortonstreet" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" }
+    }
+  ]
+}

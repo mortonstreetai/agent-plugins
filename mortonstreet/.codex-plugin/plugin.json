@@ -1,0 +1,13 @@
+{
+  "name": "mortonstreet",
+  "version": "0.1.0",
+  "description": "Your CRM, sequencers and store in one place, from Codex",
+  "author": { "name": "Morton Street" },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Morton Street",
+    "shortDescription": "Your CRM, sequencers and store in one place, from Codex",
+    "capabilities": ["Read", "Write"]
+  }
+}

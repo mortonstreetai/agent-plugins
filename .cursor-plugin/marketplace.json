@@ -1,0 +1,8 @@
+{
+  "name": "mortonstreet-plugins",
+  "owner": { "name": "Morton Street" },
+  "metadata": { "description": "Official Morton Street plugins for Cursor" },
+  "plugins": [
+    { "name": "mortonstreet", "source": "./mortonstreet", "description": "Your CRM, sequencers and store in one place, from Cursor" }
+  ]
+}

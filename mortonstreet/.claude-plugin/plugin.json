@@ -1,0 +1,7 @@
+{
+  "name": "mortonstreet",
+  "description": "Your CRM, sequencers and store in one place, from Claude Code",
+  "version": "0.1.0",
+  "author": { "name": "Morton Street" },
+  "homepage": "https://docs.mortonstreet.ai"
+}

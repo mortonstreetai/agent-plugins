@@ -1,0 +1,7 @@
+{
+  "name": "mortonstreet",
+  "version": "0.1.0",
+  "description": "Your CRM, sequencers and store in one place, from Cursor",
+  "author": { "name": "Morton Street" },
+  "skills": ["./skills"]
+}

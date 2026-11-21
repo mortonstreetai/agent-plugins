@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mortonstreet": {
+      "type": "http",
+      "url": "https://api.mortonstreet.ai/mcp"
+    }
+  }
+}
